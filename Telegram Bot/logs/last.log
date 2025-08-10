@@ -1,0 +1,275 @@
+2025-06-15 14:20:32,806 - WARNING - Missing keys in en: {'file_too_large_pre_download'}
+2025-06-15 14:20:32,806 - WARNING - Missing keys in tk: {'file_too_large_pre_download'}
+2025-06-15 14:20:32,861 - WARNING - Файл с банами не найден. Создан новый.
+2025-06-15 14:20:32,861 - WARNING - Файл с банами не найден. Создан новый.
+2025-06-15 14:20:35,597 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getMe "HTTP/1.1 200 OK"
+2025-06-15 14:20:35,637 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-15 14:20:35,640 - INFO - Scheduler started
+2025-06-15 14:20:35,640 - INFO - Application started
+2025-06-15 14:20:45,790 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:20:55,851 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:21:05,890 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:21:06,038 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:21:06,821 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendAnimation "HTTP/1.1 200 OK"
+2025-06-15 14:21:16,090 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:21:18,994 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:21:19,258 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:21:25,808 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:21:25,809 - INFO - Проверка прав: user_id=6380025642, is_admin=True
+2025-06-15 14:21:25,810 - INFO - Admin Action: {"timestamp": "2025-06-15T14:21:25.809842", "admin_id": 6380025642, "action": "COMMAND_START", "details": {"full_command": "/admin", "args": [], "chat_type": "private"}}
+2025-06-15 14:21:25,810 - INFO - Admin Action: {"timestamp": "2025-06-15T14:21:25.809842", "admin_id": 6380025642, "action": "COMMAND_START", "details": {"full_command": "/admin", "args": [], "chat_type": "private"}}
+2025-06-15 14:21:25,997 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:21:35,850 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:21:37,899 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:21:37,900 - INFO - Проверка прав: user_id=6380025642, is_admin=True
+2025-06-15 14:21:37,901 - INFO - Admin Action: {"timestamp": "2025-06-15T14:21:37.901153", "admin_id": 6380025642, "action": "COMMAND_START", "details": {"full_command": "/admin users", "args": ["users"], "chat_type": "private"}}
+2025-06-15 14:21:37,901 - INFO - Admin Action: {"timestamp": "2025-06-15T14:21:37.901153", "admin_id": 6380025642, "action": "COMMAND_START", "details": {"full_command": "/admin users", "args": ["users"], "chat_type": "private"}}
+2025-06-15 14:21:37,901 - INFO - Admin Action: {"timestamp": "2025-06-15T14:21:37.901610", "admin_id": 6380025642, "action": "USER_LIST_REQUEST", "details": {}}
+2025-06-15 14:21:37,901 - INFO - Admin Action: {"timestamp": "2025-06-15T14:21:37.901610", "admin_id": 6380025642, "action": "USER_LIST_REQUEST", "details": {}}
+2025-06-15 14:21:37,901 - INFO - Проверка прав: user_id=6380025642, is_admin=True
+2025-06-15 14:21:38,160 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendDocument "HTTP/1.1 200 OK"
+2025-06-15 14:21:38,162 - INFO - Admin Action: {"timestamp": "2025-06-15T14:21:38.162239", "admin_id": 6380025642, "action": "COMMAND_SUCCESS", "details": {"command": "users", "execution_time": "2025-06-15T14:21:38.162226", "args": []}}
+2025-06-15 14:21:38,162 - INFO - Admin Action: {"timestamp": "2025-06-15T14:21:38.162239", "admin_id": 6380025642, "action": "COMMAND_SUCCESS", "details": {"command": "users", "execution_time": "2025-06-15T14:21:38.162226", "args": []}}
+2025-06-15 14:21:47,939 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:21:57,978 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:22:00,394 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:22:00,604 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:22:07,226 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:22:07,593 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-15 14:22:07,838 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/editMessageText "HTTP/1.1 200 OK"
+2025-06-15 14:22:17,265 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:22:18,457 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:22:18,635 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:22:28,499 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:22:31,735 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:22:31,934 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:22:33,489 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:22:33,562 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-15 14:22:33,673 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/editMessageText "HTTP/1.1 200 OK"
+2025-06-15 14:22:43,527 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:22:53,563 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:23:03,598 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:23:07,097 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:23:07,261 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:23:11,059 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:23:11,104 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-15 14:23:11,105 - INFO - Обработка кнопки: format_video, URL: https://www.youtube.com/shorts/2RKC5hguJsY
+2025-06-15 14:23:11,105 - INFO - Обработка кнопки: format_video, URL: https://www.youtube.com/shorts/2RKC5hguJsY
+2025-06-15 14:23:11,160 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/editMessageText "HTTP/1.1 200 OK"
+2025-06-15 14:23:12,912 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:23:12,958 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-15 14:23:12,960 - INFO - Выбор качества: quality_720 для https://www.youtube.com/shorts/2RKC5hguJsY
+2025-06-15 14:23:12,960 - INFO - Выбор качества: quality_720 для https://www.youtube.com/shorts/2RKC5hguJsY
+2025-06-15 14:23:12,971 - INFO - Processing: https://www.youtube.com/shorts/2RKC5hguJsY for user 6380025642
+2025-06-15 14:23:12,971 - INFO - Processing: https://www.youtube.com/shorts/2RKC5hguJsY for user 6380025642
+2025-06-15 14:23:13,070 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/editMessageText "HTTP/1.1 200 OK"
+2025-06-15 14:23:18,108 - ERROR - Download failed: ERROR: You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2025-06-15 14:23:18,108 - ERROR - Download failed: ERROR: You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2025-06-15 14:23:18,338 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:23:18,339 - ERROR - Download error: local variable 'filename' referenced before assignment
+2025-06-15 14:23:18,339 - ERROR - Download error: local variable 'filename' referenced before assignment
+2025-06-15 14:23:18,442 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:23:22,955 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:23:32,992 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:23:43,030 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:23:53,071 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:24:03,109 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:24:13,147 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:24:23,188 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:24:33,230 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:24:43,268 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:24:53,307 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:25:03,345 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:25:13,388 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:25:23,427 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:25:33,465 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:25:43,505 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:25:53,546 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:26:03,585 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:26:13,632 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:26:23,675 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:26:33,717 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:26:43,754 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:26:53,792 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:27:03,830 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:27:13,869 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:27:23,907 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:27:33,944 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:27:43,981 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:27:54,019 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:28:04,057 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:28:14,097 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:28:24,134 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:28:33,832 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:28:34,024 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:28:43,161 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:28:43,333 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:28:43,336 - INFO - Admin Action: {"timestamp": "2025-06-15T14:28:43.335270", "admin_id": 0, "action": "RATE_LIMIT_TRIGGERED", "details": {"user_id": 6380025642, "command": "download", "count": 1}}
+2025-06-15 14:28:43,336 - INFO - Admin Action: {"timestamp": "2025-06-15T14:28:43.335270", "admin_id": 0, "action": "RATE_LIMIT_TRIGGERED", "details": {"user_id": 6380025642, "command": "download", "count": 1}}
+2025-06-15 14:28:47,673 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:28:47,743 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:28:49,264 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:28:49,444 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-15 14:28:49,444 - INFO - Обработка кнопки: format_video, URL: https://www.youtube.com/shorts/2RKC5hguJsY
+2025-06-15 14:28:49,444 - INFO - Обработка кнопки: format_video, URL: https://www.youtube.com/shorts/2RKC5hguJsY
+2025-06-15 14:28:49,645 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/editMessageText "HTTP/1.1 200 OK"
+2025-06-15 14:28:50,293 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:28:50,339 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-15 14:28:50,340 - INFO - Выбор качества: quality_720 для https://www.youtube.com/shorts/2RKC5hguJsY
+2025-06-15 14:28:50,340 - INFO - Выбор качества: quality_720 для https://www.youtube.com/shorts/2RKC5hguJsY
+2025-06-15 14:28:50,398 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/editMessageText "HTTP/1.1 200 OK"
+2025-06-15 14:28:51,627 - INFO - Processing: https://www.youtube.com/shorts/2RKC5hguJsY for user 6380025642
+2025-06-15 14:28:51,627 - INFO - Processing: https://www.youtube.com/shorts/2RKC5hguJsY for user 6380025642
+2025-06-15 14:28:56,059 - ERROR - Download failed: ERROR: You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2025-06-15 14:28:56,059 - ERROR - Download failed: ERROR: You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2025-06-15 14:28:56,234 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:28:56,235 - ERROR - Download error: local variable 'filename' referenced before assignment
+2025-06-15 14:28:56,235 - ERROR - Download error: local variable 'filename' referenced before assignment
+2025-06-15 14:28:56,298 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:29:00,333 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:29:06,458 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:29:06,459 - INFO - Application is stopping. This might take a moment.
+2025-06-15 14:29:06,459 - INFO - Scheduler has been shut down
+2025-06-15 14:29:06,470 - INFO - Application.stop() complete
+2025-06-15 14:29:06,471 - INFO - Путь к файлу: /Users/eziz/Desktop/Архив/logs/user_states.txt
+2025-06-15 14:29:06,471 - INFO - Путь к файлу: /Users/eziz/Desktop/Архив/logs/user_states.txt
+2025-06-15 14:29:06,471 - INFO - Данные сохранены: 0 записей
+2025-06-15 14:29:06,471 - INFO - Данные сохранены: 0 записей
+2025-06-15 14:29:06,471 - INFO - Данные сохранены в /user_states.txt
+2025-06-15 14:29:06,471 - INFO - Данные сохранены в /user_states.txt
+2025-06-15 14:29:06,493 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<cleanup_task() running at /Users/eziz/Desktop/Архив/bot/downloader.py:324> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x104a7d580>()]>>
+2025-06-15 14:29:06,493 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<download_worker() running at /Users/eziz/Desktop/Архив/bot/downloader.py:159> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x1058564f0>()]>>
+2025-06-15 14:29:12,200 - WARNING - Missing keys in en: {'file_too_large_pre_download'}
+2025-06-15 14:29:12,200 - WARNING - Missing keys in tk: {'file_too_large_pre_download'}
+2025-06-15 14:29:12,250 - INFO - Загружено: 0 банов
+2025-06-15 14:29:12,250 - INFO - Загружено: 0 банов
+2025-06-15 14:29:12,418 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getMe "HTTP/1.1 200 OK"
+2025-06-15 14:29:12,453 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-15 14:29:12,453 - INFO - Scheduler started
+2025-06-15 14:29:12,453 - INFO - Application started
+2025-06-15 14:29:22,238 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:29:22,442 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:29:23,752 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:29:23,821 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-15 14:29:23,823 - INFO - Обработка кнопки: format_video, URL: https://www.youtube.com/shorts/2RKC5hguJsY
+2025-06-15 14:29:23,823 - INFO - Обработка кнопки: format_video, URL: https://www.youtube.com/shorts/2RKC5hguJsY
+2025-06-15 14:29:23,885 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/editMessageText "HTTP/1.1 200 OK"
+2025-06-15 14:29:24,618 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:29:24,681 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-15 14:29:24,682 - INFO - Выбор качества: quality_720 для https://www.youtube.com/shorts/2RKC5hguJsY
+2025-06-15 14:29:24,682 - INFO - Выбор качества: quality_720 для https://www.youtube.com/shorts/2RKC5hguJsY
+2025-06-15 14:29:24,750 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/editMessageText "HTTP/1.1 200 OK"
+2025-06-15 14:29:26,289 - INFO - Processing: https://www.youtube.com/shorts/2RKC5hguJsY for user 6380025642
+2025-06-15 14:29:26,289 - INFO - Processing: https://www.youtube.com/shorts/2RKC5hguJsY for user 6380025642
+2025-06-15 14:29:34,668 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:29:41,265 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendChatAction "HTTP/1.1 200 OK"
+2025-06-15 14:29:41,989 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendVideo "HTTP/1.1 200 OK"
+2025-06-15 14:29:41,991 - INFO - Successfully sent video to 6380025642
+2025-06-15 14:29:41,991 - INFO - Successfully sent video to 6380025642
+2025-06-15 14:29:41,992 - INFO - Cleaned main file: /Users/eziz/Desktop/Архив/downloads/3 забавных момента с МАРМОКОМ #мармок #marmok #rdr2.mp4
+2025-06-15 14:29:41,992 - INFO - Cleaned main file: /Users/eziz/Desktop/Архив/downloads/3 забавных момента с МАРМОКОМ #мармок #marmok #rdr2.mp4
+2025-06-15 14:29:44,705 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:29:54,742 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:30:04,780 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:30:14,821 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:30:24,861 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:30:34,897 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:30:44,936 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:30:54,975 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:31:05,012 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:31:15,053 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:31:25,090 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:31:28,977 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:31:29,151 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendMessage "HTTP/1.1 200 OK"
+2025-06-15 14:31:30,668 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:31:30,712 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-15 14:31:30,714 - INFO - Обработка кнопки: format_video, URL: https://www.youtube.com/shorts/KOGbrLsw930
+2025-06-15 14:31:30,714 - INFO - Обработка кнопки: format_video, URL: https://www.youtube.com/shorts/KOGbrLsw930
+2025-06-15 14:31:30,766 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/editMessageText "HTTP/1.1 200 OK"
+2025-06-15 14:31:31,865 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:31:31,921 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/answerCallbackQuery "HTTP/1.1 200 OK"
+2025-06-15 14:31:31,923 - INFO - Выбор качества: quality_720 для https://www.youtube.com/shorts/KOGbrLsw930
+2025-06-15 14:31:31,923 - INFO - Выбор качества: quality_720 для https://www.youtube.com/shorts/KOGbrLsw930
+2025-06-15 14:31:31,987 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/editMessageText "HTTP/1.1 200 OK"
+2025-06-15 14:31:33,060 - INFO - Processing: https://www.youtube.com/shorts/KOGbrLsw930 for user 6380025642
+2025-06-15 14:31:33,060 - INFO - Processing: https://www.youtube.com/shorts/KOGbrLsw930 for user 6380025642
+2025-06-15 14:31:38,230 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendChatAction "HTTP/1.1 200 OK"
+2025-06-15 14:31:38,783 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/sendVideo "HTTP/1.1 200 OK"
+2025-06-15 14:31:38,788 - INFO - Successfully sent video to 6380025642
+2025-06-15 14:31:38,788 - INFO - Successfully sent video to 6380025642
+2025-06-15 14:31:38,795 - INFO - Cleaned main file: /Users/eziz/Desktop/Архив/downloads/ПРОСНУЛСЯ - А ФУРА ЕДЕТ САМА🤯🔥.mp4
+2025-06-15 14:31:38,795 - INFO - Cleaned main file: /Users/eziz/Desktop/Архив/downloads/ПРОСНУЛСЯ - А ФУРА ЕДЕТ САМА🤯🔥.mp4
+2025-06-15 14:31:41,911 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:31:51,960 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:32:01,997 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:32:12,036 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:32:22,075 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:32:32,117 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:32:42,155 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:32:52,193 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:33:02,238 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:33:12,295 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:33:22,332 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:33:32,373 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:33:42,414 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:33:52,452 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:34:02,490 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:34:12,525 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:34:22,561 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:34:32,601 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:34:42,638 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:34:52,676 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:35:02,713 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:35:12,750 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:35:22,787 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:35:32,824 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:35:42,859 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:35:52,897 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:36:02,935 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:36:12,972 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-15 14:36:23,012 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 10:59:06,033 - WARNING - Missing keys in en: {'file_too_large_pre_download'}
+2025-06-17 10:59:06,033 - WARNING - Missing keys in tk: {'file_too_large_pre_download'}
+2025-06-17 10:59:06,106 - INFO - Загружено: 0 банов
+2025-06-17 10:59:06,106 - INFO - Загружено: 0 банов
+2025-06-17 10:59:06,324 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getMe "HTTP/1.1 200 OK"
+2025-06-17 10:59:06,364 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/deleteWebhook "HTTP/1.1 200 OK"
+2025-06-17 10:59:06,365 - INFO - Scheduler started
+2025-06-17 10:59:06,365 - INFO - Application started
+2025-06-17 10:59:16,613 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 10:59:26,822 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 10:59:36,976 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 10:59:47,113 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 10:59:57,199 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:00:07,287 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:00:17,424 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:00:27,582 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:00:37,699 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:00:47,836 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:00:57,976 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:01:08,111 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:01:18,252 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:01:28,387 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:01:38,526 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:01:48,663 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:01:58,800 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:02:08,940 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:02:19,077 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:02:29,213 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:02:39,353 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:02:45,189 - INFO - HTTP Request: POST https://api.telegram.org/bot8008631488:AAE-BX3AvETs1v9BksqMQTZMKppRi5D5HQI/getUpdates "HTTP/1.1 200 OK"
+2025-06-17 11:02:45,190 - INFO - Application is stopping. This might take a moment.
+2025-06-17 11:02:45,191 - INFO - Scheduler has been shut down
+2025-06-17 11:02:45,202 - INFO - Application.stop() complete
+2025-06-17 11:02:45,204 - INFO - Путь к файлу: /Users/eziz/Desktop/Архив/logs/user_states.txt
+2025-06-17 11:02:45,204 - INFO - Путь к файлу: /Users/eziz/Desktop/Архив/logs/user_states.txt
+2025-06-17 11:02:45,206 - INFO - Данные сохранены: 0 записей
+2025-06-17 11:02:45,206 - INFO - Данные сохранены: 0 записей
+2025-06-17 11:02:45,206 - INFO - Данные сохранены в /user_states.txt
+2025-06-17 11:02:45,206 - INFO - Данные сохранены в /user_states.txt
+2025-06-17 11:02:45,228 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-2' coro=<cleanup_task() running at /Users/eziz/Desktop/Архив/bot/downloader.py:324> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x106ce3220>()]>>
+2025-06-17 11:02:45,229 - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-1' coro=<download_worker() running at /Users/eziz/Desktop/Архив/bot/downloader.py:159> wait_for=<Future pending cb=[<TaskWakeupMethWrapper object at 0x106fbe550>()]>>

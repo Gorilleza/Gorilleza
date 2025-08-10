@@ -1,0 +1,4 @@
+2025-06-15 14:23:18,108 - ERROR - Download failed: ERROR: You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2025-06-15 14:23:18,339 - ERROR - Download error: local variable 'filename' referenced before assignment
+2025-06-15 14:28:56,059 - ERROR - Download failed: ERROR: You have requested merging of multiple formats but ffmpeg is not installed. Aborting due to --abort-on-error
+2025-06-15 14:28:56,235 - ERROR - Download error: local variable 'filename' referenced before assignment

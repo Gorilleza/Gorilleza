@@ -1,0 +1,6 @@
+python-telegram-bot[ext]
+yt-dlp
+pyzipper
+python-dotenv
+PySocks
+ffmpeg-python

@@ -1,0 +1,5 @@
+{"timestamp": "2025-06-15T14:21:25.809842", "admin_id": 6380025642, "action": "COMMAND_START", "details": {"full_command": "/admin", "args": [], "chat_type": "private"}}
+{"timestamp": "2025-06-15T14:21:37.901153", "admin_id": 6380025642, "action": "COMMAND_START", "details": {"full_command": "/admin users", "args": ["users"], "chat_type": "private"}}
+{"timestamp": "2025-06-15T14:21:37.901610", "admin_id": 6380025642, "action": "USER_LIST_REQUEST", "details": {}}
+{"timestamp": "2025-06-15T14:21:38.162239", "admin_id": 6380025642, "action": "COMMAND_SUCCESS", "details": {"command": "users", "execution_time": "2025-06-15T14:21:38.162226", "args": []}}
+{"timestamp": "2025-06-15T14:28:43.335270", "admin_id": 0, "action": "RATE_LIMIT_TRIGGERED", "details": {"user_id": 6380025642, "command": "download", "count": 1}}
